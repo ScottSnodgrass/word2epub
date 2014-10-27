@@ -52,3 +52,13 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Sublime Text
+*.sublime-workspace
+
+# All test outputs and testing codes must go in this directory
+__test-output/
+__code-playground/
+
+# Dont track virtual environment
+venv/
